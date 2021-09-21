@@ -1,3 +1,11 @@
-h1{
-    background-color: red;
+p{
+    font-size: 16pt;
+}
+
+ul{
+    font-size: 16pt;
+}
+
+.reveal h1{
+    font-size: 50pt;
 }
