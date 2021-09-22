@@ -1,11 +1,18 @@
-p{
-    font-size: 16pt;
+.reveal p {
+  font-size: 16pt;
 }
 
-ul{
-    font-size: 16pt;
+.reveal ul li {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-size: 16pt;
 }
 
-.reveal h1{
-    font-size: 50pt;
+.reveal h1 {
+  font-size: 50pt;
+}
+
+.img-1 .img-2 .img-3 {
+
 }
